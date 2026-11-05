@@ -1,0 +1,26 @@
+{
+  "title": "Driving Techno Basslines",
+  "study": "z2101",
+  "bpm": 132,
+  "source_audio": "preview/driving-techno-basslines-simple-synth-preview.mp3",
+  "source_audio_sha256": "c08057c0efbc98a83a6fb40cda87f276502b6b0f3f8e9500027b2327af5eda7e",
+  "source_midi": "midi/z2101-driving-techno-basslines-opening/z2101-driving-techno-basslines-opening-combined.mid",
+  "source_midi_sha256": "b4b63d070b98ba90b1c3e08ffeeca01980923df04fea907fc047f8e511a78edc",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "987c5f36447c47d6012b75a30b5d28e558b87601e2bbac9df62708d53215acd7",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "9bc634953b7e055e7c953591f70529723d5e732f2c174f5dca5d59fa8aa4b6fc",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "a94bc154c8c65e99ea0659c9d339ca8273b733f6a873411a7e1bf0e744afaee2",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

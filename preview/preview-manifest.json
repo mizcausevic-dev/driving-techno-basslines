@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/driving-techno-basslines-simple-synth-preview.mp3",
+  "preview_sha256": "c08057c0efbc98a83a6fb40cda87f276502b6b0f3f8e9500027b2327af5eda7e",
+  "source_midi_path": "midi/z2101-driving-techno-basslines-opening/z2101-driving-techno-basslines-opening-combined.mid",
+  "source_midi_sha256": "b4b63d070b98ba90b1c3e08ffeeca01980923df04fea907fc047f8e511a78edc",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z2101",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.136164,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:52.151938+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2101-driving-techno-basslines-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "fec6c0faaffe0f7e02fec8d6efc8df9dbdd33592168e9dedee6fe8cd194fdbe4",
+      "errors": []
+    },
+    {
+      "path": "midi/z2101-driving-techno-basslines-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "034b9ec8b814e54301575fa42787f94fa3c98a72a8a2f729823a36bfbf95a36e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2101-driving-techno-basslines-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2101-driving-techno-basslines-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "f72c949640f821c7d1277c8233fcb577a590c443e1036978681ca73bf8f45b2d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2101-driving-techno-basslines-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "73dd17fe47f49fc12f27e39c630a1f4762e22740050b3a547b9ce62b7ffc88bd",
+      "errors": []
+    },
+    {
+      "path": "midi/z2101-driving-techno-basslines-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ae794f7faea08be33b043036c5d1f4c53f3fd3843b5e528ca9ce15bfc8374022",
+      "errors": []
+    },
+    {
+      "path": "midi/z2101-driving-techno-basslines-opening/z2101-driving-techno-basslines-opening-combined.mid",
+      "bytes": 6018,
+      "sha256": "b4b63d070b98ba90b1c3e08ffeeca01980923df04fea907fc047f8e511a78edc",
+      "errors": []
+    },
+    {
+      "path": "midi/z2102-driving-techno-basslines-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "1f8e792af66d87e468ec29399aea30d989b0aea7849c7f925290abc17743d059",
+      "errors": []
+    },
+    {
+      "path": "midi/z2102-driving-techno-basslines-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fc32d3535589a09035379ed68567b42731854678c1e2fa9f5bf5cdcb4fe5b72f",
+      "errors": []
+    },
+    {
+      "path": "midi/z2102-driving-techno-basslines-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2102-driving-techno-basslines-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "a0c26c3fc01fdb468f78c333b6003dbf0598ab084d2b0e5ab93ca0889805c813",
+      "errors": []
+    },
+    {
+      "path": "midi/z2102-driving-techno-basslines-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "06d693820fa3f433aacab1f87c575d8c0fa388b66925c8d79ef1b3d7ca00eeba",
+      "errors": []
+    },
+    {
+      "path": "midi/z2102-driving-techno-basslines-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "d5fdb3251c79a7baefad6613275f91e994b36fe77e851193c2ab1e8b907713e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2102-driving-techno-basslines-variation/z2102-driving-techno-basslines-variation-combined.mid",
+      "bytes": 6018,
+      "sha256": "063fe0d491ef39a7120f9af5a5469ce12d0bef772c1cb3cd7745069713e6be8e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2103-driving-techno-basslines-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "58e4a4a490b060d20abc798aa9d3cbde264af65fe414768542f5332f67cefe6e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2103-driving-techno-basslines-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "42a817d894622ba05a468348054e199b8ffab1c89bddeb2afc182b9dd54e8d75",
+      "errors": []
+    },
+    {
+      "path": "midi/z2103-driving-techno-basslines-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2103-driving-techno-basslines-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "94af314fa83532aca2eea72d8b5d5cb340e28d8d05722268d13217ca09c1eb82",
+      "errors": []
+    },
+    {
+      "path": "midi/z2103-driving-techno-basslines-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "87d24604806dc418fc1563abd6905ae407127386dfdcb07f81b95ade1889df90",
+      "errors": []
+    },
+    {
+      "path": "midi/z2103-driving-techno-basslines-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "26f82863df1d3cc3b4ae566fdb523b1af49ecde77524e868885ff1486e9be205",
+      "errors": []
+    },
+    {
+      "path": "midi/z2103-driving-techno-basslines-contrast/z2103-driving-techno-basslines-contrast-combined.mid",
+      "bytes": 5986,
+      "sha256": "821c76f3aed6a4d0ea53c8813867ff3c3510233727c05ead41ab2209a5fd566e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2104-driving-techno-basslines-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "8a70c5191b9c16b0b07423b4b8426d3f74064ab4a9480ae76bdf7a20214c3f63",
+      "errors": []
+    },
+    {
+      "path": "midi/z2104-driving-techno-basslines-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "42b4b2ab656b5e318bc9eadb7345bd03ffc7a2317c2da781efa9949c67497115",
+      "errors": []
+    },
+    {
+      "path": "midi/z2104-driving-techno-basslines-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2104-driving-techno-basslines-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "bfce4da7ddc252bc27478734bc97b67e16dcb3571fe64015877f6a3756c44810",
+      "errors": []
+    },
+    {
+      "path": "midi/z2104-driving-techno-basslines-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "95f597db0eaf9a6656794a60eeacf9ea37d868c9daca0f7726904ef13256f626",
+      "errors": []
+    },
+    {
+      "path": "midi/z2104-driving-techno-basslines-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "6aa823cb35f2ea6661f0958c2f56bf2f0fd70e1a9ffe5ea212f51820bb040726",
+      "errors": []
+    },
+    {
+      "path": "midi/z2104-driving-techno-basslines-return/z2104-driving-techno-basslines-return-combined.mid",
+      "bytes": 5986,
+      "sha256": "d40729677760a07c5c77da6b2c314e0e0b2df4075b4c96871f3060118cdf7735",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
