@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/driving-techno-basslines-midi.zip",
-      "bytes": 31901,
-      "sha256": "58953f9e462d03d4bf3e7cec71d7cbec8aa2a53b2e121d157c35a6a0af2ee727"
+      "bytes": 32888,
+      "sha256": "813ed7ac8be134f658369f032a1fe0b391c029dfb7fe9351fc996c5a7140510e"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10020,
-      "sha256": "7f2239dedbbedf970bf10f897905c8c88aee3b378aeeeafee44bcbd6f7c18125"
+      "bytes": 10210,
+      "sha256": "a2464a244a2d1a141a645e02e8ee9cb9ebe8abde9105305e37f217e250121a5f"
     },
     {
       "path": "midi/z2101-driving-techno-basslines-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "d40729677760a07c5c77da6b2c314e0e0b2df4075b4c96871f3060118cdf7735"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/driving-techno-basslines-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "c08057c0efbc98a83a6fb40cda87f276502b6b0f3f8e9500027b2327af5eda7e"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3993,
-      "sha256": "3425e1f4833490559666f7f89636bc82f0b0628b996f44f63611832e740a1561"
+      "bytes": 4108,
+      "sha256": "34274b803b93ca9ec48031e7464f6e1c8a4e2f68d0d0f5971e3d6a5685e9e057"
     },
     {
       "path": "social/instagram/caption.txt",
